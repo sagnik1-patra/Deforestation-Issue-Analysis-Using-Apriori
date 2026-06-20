@@ -1,0 +1,1093 @@
+support,itemsets,length
+0.93,frozenset({'Corruption_Category_High_Corruption'}),1
+0.7,frozenset({'Policy_Category_Weak_Policy'}),1
+0.68,"frozenset({'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",2
+0.34,frozenset({'GDP_Category_High_GDP'}),1
+0.34,frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering'}),1
+0.34,frozenset({'Year_Category_Old_Year'}),1
+0.34,frozenset({'CO2_Category_Low_CO2'}),1
+0.34,frozenset({'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'}),1
+0.34,frozenset({'Rainfall_Category_High_Rainfall'}),1
+0.34,frozenset({'Population_Category_High_Population'}),1
+0.34,frozenset({'Protected_Areas_Category_High_Protected_Area'}),1
+0.34,frozenset({'Rainfall_Category_Low_Rainfall'}),1
+0.34,frozenset({'Forest_Loss_Category_High_Forest_Loss'}),1
+0.34,frozenset({'CO2_Category_High_CO2'}),1
+0.34,frozenset({'Aid_Category_Medium_Aid'}),1
+0.34,frozenset({'Agriculture_Land_Category_High_Agriculture_Land'}),1
+0.33,frozenset({'Year_Category_Recent_Year'}),1
+0.33,frozenset({'Year_Category_Middle_Year'}),1
+0.33,frozenset({'Forest_Loss_Category_Medium_Forest_Loss'}),1
+0.33,frozenset({'GDP_Category_Low_GDP'}),1
+0.33,frozenset({'GDP_Category_Medium_GDP'}),1
+0.33,frozenset({'Forest_Loss_Category_Low_Forest_Loss'}),1
+0.33,frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering'}),1
+0.33,frozenset({'Protected_Areas_Category_Low_Protected_Area'}),1
+0.33,frozenset({'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'}),1
+0.33,frozenset({'Population_Category_Medium_Population'}),1
+0.33,frozenset({'Protected_Areas_Category_Medium_Protected_Area'}),1
+0.33,frozenset({'Population_Category_Low_Population'}),1
+0.33,frozenset({'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'}),1
+0.33,frozenset({'Aid_Category_Low_Aid'}),1
+0.33,frozenset({'Aid_Category_High_Aid'}),1
+0.33,"frozenset({'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption'})",2
+0.33,frozenset({'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'}),1
+0.33,frozenset({'Agriculture_Land_Category_Low_Agriculture_Land'}),1
+0.33,frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land'}),1
+0.32,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Corruption_Category_High_Corruption'})",2
+0.32,frozenset({'Rainfall_Category_Medium_Rainfall'}),1
+0.32,frozenset({'CO2_Category_Medium_CO2'}),1
+0.32,"frozenset({'Aid_Category_Low_Aid', 'Corruption_Category_High_Corruption'})",2
+0.32,"frozenset({'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",2
+0.32,"frozenset({'Rainfall_Category_High_Rainfall', 'Corruption_Category_High_Corruption'})",2
+0.32,"frozenset({'Corruption_Category_High_Corruption', 'Year_Category_Old_Year'})",2
+0.32,"frozenset({'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year'})",2
+0.32,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption'})",2
+0.32,"frozenset({'GDP_Category_High_GDP', 'Corruption_Category_High_Corruption'})",2
+0.32,"frozenset({'Population_Category_Low_Population', 'Corruption_Category_High_Corruption'})",2
+0.32,"frozenset({'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption'})",2
+0.31,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Corruption_Category_High_Corruption'})",2
+0.31,"frozenset({'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",2
+0.31,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption'})",2
+0.31,"frozenset({'Rainfall_Category_Low_Rainfall', 'Corruption_Category_High_Corruption'})",2
+0.31,"frozenset({'Corruption_Category_High_Corruption', 'Forest_Loss_Category_Medium_Forest_Loss'})",2
+0.31,"frozenset({'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption'})",2
+0.31,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Corruption_Category_High_Corruption'})",2
+0.31,"frozenset({'Population_Category_Medium_Population', 'Corruption_Category_High_Corruption'})",2
+0.31,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Corruption_Category_High_Corruption'})",2
+0.31,"frozenset({'Corruption_Category_High_Corruption', 'CO2_Category_High_CO2'})",2
+0.31,"frozenset({'Aid_Category_Medium_Aid', 'Corruption_Category_High_Corruption'})",2
+0.31,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Corruption_Category_High_Corruption'})",2
+0.3,"frozenset({'Corruption_Category_High_Corruption', 'Aid_Category_High_Aid'})",2
+0.3,frozenset({'Policy_Category_Moderate_Policy'}),1
+0.3,"frozenset({'Population_Category_High_Population', 'Corruption_Category_High_Corruption'})",2
+0.3,"frozenset({'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption'})",2
+0.3,"frozenset({'Corruption_Category_High_Corruption', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.3,"frozenset({'Forest_Loss_Category_Low_Forest_Loss', 'Corruption_Category_High_Corruption'})",2
+0.3,"frozenset({'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",2
+0.3,"frozenset({'Corruption_Category_High_Corruption', 'Protected_Areas_Category_Low_Protected_Area'})",2
+0.3,"frozenset({'Corruption_Category_High_Corruption', 'Rainfall_Category_Medium_Rainfall'})",2
+0.29,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Policy_Category_Weak_Policy'})",2
+0.29,"frozenset({'CO2_Category_Medium_CO2', 'Corruption_Category_High_Corruption'})",2
+0.29,"frozenset({'Year_Category_Recent_Year', 'Corruption_Category_High_Corruption'})",2
+0.28,"frozenset({'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.28,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.28,"frozenset({'CO2_Category_Low_CO2', 'Policy_Category_Weak_Policy'})",2
+0.26,"frozenset({'Year_Category_Recent_Year', 'Policy_Category_Weak_Policy'})",2
+0.26,"frozenset({'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Policy_Category_Weak_Policy'})",2
+0.26,"frozenset({'Forest_Loss_Category_Medium_Forest_Loss', 'Policy_Category_Weak_Policy'})",2
+0.26,"frozenset({'Aid_Category_High_Aid', 'Policy_Category_Weak_Policy'})",2
+0.25,"frozenset({'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.25,"frozenset({'Forest_Loss_Category_Medium_Forest_Loss', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.25,"frozenset({'Aid_Category_High_Aid', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.25,"frozenset({'Policy_Category_Moderate_Policy', 'Corruption_Category_High_Corruption'})",2
+0.25,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Policy_Category_Weak_Policy'})",2
+0.25,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Policy_Category_Weak_Policy'})",2
+0.25,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.24,"frozenset({'Tree_Cover_Loss_Category_High_Tree_Cover_Loss', 'Policy_Category_Weak_Policy'})",2
+0.24,frozenset({'Country_Russia'}),1
+0.24,"frozenset({'GDP_Category_Medium_GDP', 'Policy_Category_Weak_Policy'})",2
+0.24,"frozenset({'Rainfall_Category_Low_Rainfall', 'Policy_Category_Weak_Policy'})",2
+0.24,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.24,"frozenset({'Population_Category_Low_Population', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.24,"frozenset({'Population_Category_Low_Population', 'Policy_Category_Weak_Policy'})",2
+0.24,"frozenset({'Year_Category_Recent_Year', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.23,"frozenset({'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.23,"frozenset({'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.23,"frozenset({'Tree_Cover_Loss_Category_High_Tree_Cover_Loss', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.23,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Policy_Category_Weak_Policy'})",2
+0.23,"frozenset({'Rainfall_Category_Low_Rainfall', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.23,"frozenset({'Rainfall_Category_Medium_Rainfall', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.23,"frozenset({'GDP_Category_High_GDP', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.23,"frozenset({'GDP_Category_High_GDP', 'Policy_Category_Weak_Policy'})",2
+0.23,"frozenset({'Population_Category_High_Population', 'Policy_Category_Weak_Policy'})",2
+0.23,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Policy_Category_Weak_Policy'})",2
+0.23,"frozenset({'Rainfall_Category_High_Rainfall', 'Policy_Category_Weak_Policy'})",2
+0.23,"frozenset({'Population_Category_Medium_Population', 'Policy_Category_Weak_Policy'})",2
+0.23,"frozenset({'Aid_Category_Medium_Aid', 'Policy_Category_Weak_Policy'})",2
+0.23,"frozenset({'Rainfall_Category_Medium_Rainfall', 'Policy_Category_Weak_Policy'})",2
+0.23,frozenset({'Country_Brazil'}),1
+0.23,"frozenset({'GDP_Category_Low_GDP', 'Policy_Category_Weak_Policy'})",2
+0.23,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Policy_Category_Weak_Policy'})",2
+0.23,frozenset({'Country_Indonesia'}),1
+0.23,"frozenset({'Forest_Loss_Category_High_Forest_Loss', 'Policy_Category_Weak_Policy'})",2
+0.22,"frozenset({'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.22,"frozenset({'Population_Category_High_Population', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.22,"frozenset({'Population_Category_Medium_Population', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.22,"frozenset({'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year', 'Policy_Category_Weak_Policy'})",3
+0.22,"frozenset({'Aid_Category_Medium_Aid', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.22,"frozenset({'Protected_Areas_Category_Low_Protected_Area', 'Policy_Category_Weak_Policy'})",2
+0.22,"frozenset({'Year_Category_Middle_Year', 'Policy_Category_Weak_Policy'})",2
+0.22,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.22,"frozenset({'Illegal_Lumbering_Category_Medium_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.22,"frozenset({'Policy_Category_Weak_Policy', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.22,"frozenset({'Country_Russia', 'Corruption_Category_High_Corruption'})",2
+0.22,"frozenset({'Policy_Category_Weak_Policy', 'Year_Category_Old_Year'})",2
+0.22,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.22,"frozenset({'Rainfall_Category_High_Rainfall', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.22,"frozenset({'Year_Category_Old_Year', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.22,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.21,"frozenset({'Country_Indonesia', 'Corruption_Category_High_Corruption'})",2
+0.21,"frozenset({'Corruption_Category_High_Corruption', 'Protected_Areas_Category_Low_Protected_Area', 'Policy_Category_Weak_Policy'})",3
+0.21,"frozenset({'Aid_Category_Low_Aid', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.21,"frozenset({'Aid_Category_Low_Aid', 'Policy_Category_Weak_Policy'})",2
+0.21,"frozenset({'CO2_Category_High_CO2', 'Policy_Category_Weak_Policy'})",2
+0.21,"frozenset({'CO2_Category_Medium_CO2', 'Policy_Category_Weak_Policy'})",2
+0.21,"frozenset({'Forest_Loss_Category_Low_Forest_Loss', 'Policy_Category_Weak_Policy'})",2
+0.2,"frozenset({'Country_Brazil', 'Corruption_Category_High_Corruption'})",2
+0.2,"frozenset({'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.2,"frozenset({'Forest_Loss_Category_Low_Forest_Loss', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.2,"frozenset({'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss', 'Policy_Category_Weak_Policy'})",2
+0.2,"frozenset({'CO2_Category_High_CO2', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.2,"frozenset({'CO2_Category_Medium_CO2', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.19,"frozenset({'Country_Indonesia', 'Policy_Category_Weak_Policy'})",2
+0.18,"frozenset({'Country_Russia', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.18,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Policy_Category_Weak_Policy'})",2
+0.18,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.18,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Aid_Category_Medium_Aid'})",2
+0.18,"frozenset({'Country_Russia', 'Policy_Category_Weak_Policy'})",2
+0.17,"frozenset({'Rainfall_Category_Low_Rainfall', 'Aid_Category_High_Aid'})",2
+0.17,"frozenset({'Country_Indonesia', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.17,"frozenset({'GDP_Category_High_GDP', 'Year_Category_Old_Year'})",2
+0.16,"frozenset({'Year_Category_Recent_Year', 'GDP_Category_Low_GDP'})",2
+0.16,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Rainfall_Category_Medium_Rainfall'})",2
+0.16,"frozenset({'GDP_Category_High_GDP', 'Corruption_Category_High_Corruption', 'Year_Category_Old_Year'})",3
+0.16,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Aid_Category_Medium_Aid', 'Corruption_Category_High_Corruption'})",3
+0.16,"frozenset({'Rainfall_Category_Low_Rainfall', 'Protected_Areas_Category_Medium_Protected_Area'})",2
+0.16,"frozenset({'Population_Category_Medium_Population', 'CO2_Category_High_CO2'})",2
+0.16,"frozenset({'Year_Category_Recent_Year', 'Forest_Loss_Category_Medium_Forest_Loss'})",2
+0.16,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Forest_Loss_Category_High_Forest_Loss'})",2
+0.16,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",2
+0.16,"frozenset({'Rainfall_Category_High_Rainfall', 'Aid_Category_Low_Aid'})",2
+0.16,"frozenset({'Rainfall_Category_Low_Rainfall', 'Population_Category_High_Population'})",2
+0.16,"frozenset({'Population_Category_Medium_Population', 'Aid_Category_Medium_Aid'})",2
+0.15,"frozenset({'Population_Category_High_Population', 'GDP_Category_Medium_GDP'})",2
+0.15,"frozenset({'Rainfall_Category_High_Rainfall', 'GDP_Category_Low_GDP'})",2
+0.15,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",3
+0.15,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'GDP_Category_Medium_GDP'})",2
+0.15,"frozenset({'Rainfall_Category_Low_Rainfall', 'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption'})",3
+0.15,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Aid_Category_High_Aid'})",2
+0.15,frozenset({'Country_India'}),1
+0.15,frozenset({'Country_Australia'}),1
+0.15,"frozenset({'Country_India', 'Corruption_Category_High_Corruption'})",2
+0.15,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Forest_Loss_Category_Medium_Forest_Loss'})",2
+0.15,"frozenset({'Country_Australia', 'Corruption_Category_High_Corruption'})",2
+0.15,"frozenset({'GDP_Category_Low_GDP', 'Forest_Loss_Category_Medium_Forest_Loss'})",2
+0.15,"frozenset({'Population_Category_Low_Population', 'GDP_Category_High_GDP'})",2
+0.15,"frozenset({'CO2_Category_Low_CO2', 'GDP_Category_High_GDP'})",2
+0.15,"frozenset({'Forest_Loss_Category_Low_Forest_Loss', 'Year_Category_Middle_Year'})",2
+0.15,"frozenset({'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Forest_Loss_Category_Medium_Forest_Loss'})",2
+0.15,"frozenset({'GDP_Category_Medium_GDP', 'Forest_Loss_Category_Low_Forest_Loss'})",2
+0.15,"frozenset({'Rainfall_Category_High_Rainfall', 'Aid_Category_Low_Aid', 'Corruption_Category_High_Corruption'})",3
+0.15,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Rainfall_Category_Medium_Rainfall'})",3
+0.15,"frozenset({'Rainfall_Category_Low_Rainfall', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",2
+0.15,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Year_Category_Middle_Year'})",2
+0.15,"frozenset({'Rainfall_Category_Low_Rainfall', 'Year_Category_Old_Year'})",2
+0.15,"frozenset({'Aid_Category_Medium_Aid', 'GDP_Category_High_GDP'})",2
+0.15,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",2
+0.15,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Aid_Category_High_Aid'})",2
+0.15,"frozenset({'Aid_Category_Medium_Aid', 'Population_Category_Medium_Population', 'Corruption_Category_High_Corruption'})",3
+0.15,"frozenset({'CO2_Category_High_CO2', 'Aid_Category_High_Aid'})",2
+0.15,"frozenset({'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Aid_Category_High_Aid'})",2
+0.15,"frozenset({'Aid_Category_High_Aid', 'Forest_Loss_Category_Medium_Forest_Loss'})",2
+0.15,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.15,"frozenset({'Population_Category_Medium_Population', 'Corruption_Category_High_Corruption', 'CO2_Category_High_CO2'})",3
+0.15,"frozenset({'Year_Category_Recent_Year', 'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption'})",3
+0.15,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Protected_Areas_Category_Medium_Protected_Area'})",2
+0.15,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Policy_Category_Moderate_Policy'})",2
+0.15,"frozenset({'Rainfall_Category_Low_Rainfall', 'Corruption_Category_High_Corruption', 'Aid_Category_High_Aid'})",3
+0.14,"frozenset({'Population_Category_High_Population', 'Aid_Category_High_Aid'})",2
+0.14,"frozenset({'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Corruption_Category_High_Corruption', 'Forest_Loss_Category_Medium_Forest_Loss'})",3
+0.14,"frozenset({'Year_Category_Recent_Year', 'Corruption_Category_High_Corruption', 'Forest_Loss_Category_Medium_Forest_Loss'})",3
+0.14,"frozenset({'GDP_Category_High_GDP', 'Population_Category_Low_Population', 'Corruption_Category_High_Corruption'})",3
+0.14,"frozenset({'GDP_Category_High_GDP', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption'})",3
+0.14,"frozenset({'GDP_Category_Medium_GDP', 'Aid_Category_High_Aid'})",2
+0.14,"frozenset({'Forest_Loss_Category_Low_Forest_Loss', 'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption'})",3
+0.14,"frozenset({'Forest_Loss_Category_Low_Forest_Loss', 'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year'})",3
+0.14,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Rainfall_Category_High_Rainfall'})",2
+0.14,"frozenset({'Illegal_Lumbering_Category_Medium_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",3
+0.14,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption'})",3
+0.14,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year'})",3
+0.14,"frozenset({'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year'})",3
+0.14,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Forest_Loss_Category_High_Forest_Loss'})",2
+0.14,"frozenset({'Rainfall_Category_High_Rainfall', 'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption'})",3
+0.14,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",2
+0.14,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Corruption_Category_High_Corruption', 'Rainfall_Category_Medium_Rainfall'})",3
+0.14,"frozenset({'Rainfall_Category_High_Rainfall', 'Population_Category_Low_Population', 'Corruption_Category_High_Corruption'})",3
+0.14,"frozenset({'Rainfall_Category_Low_Rainfall', 'Population_Category_High_Population', 'Corruption_Category_High_Corruption'})",3
+0.14,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Rainfall_Category_Medium_Rainfall', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.14,"frozenset({'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption', 'Forest_Loss_Category_Medium_Forest_Loss'})",3
+0.14,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Rainfall_Category_High_Rainfall'})",2
+0.14,"frozenset({'Rainfall_Category_High_Rainfall', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",2
+0.14,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Rainfall_Category_Medium_Rainfall'})",2
+0.14,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Rainfall_Category_Medium_Rainfall', 'Policy_Category_Weak_Policy'})",3
+0.14,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Forest_Loss_Category_Medium_Forest_Loss'})",3
+0.14,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption'})",3
+0.14,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Rainfall_Category_High_Rainfall', 'Corruption_Category_High_Corruption'})",3
+0.14,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.14,"frozenset({'Aid_Category_Low_Aid', 'Illegal_Lumbering_Category_High_Illegal_Lumbering'})",2
+0.14,"frozenset({'Rainfall_Category_High_Rainfall', 'Population_Category_Low_Population'})",2
+0.14,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Protected_Areas_Category_Low_Protected_Area'})",2
+0.14,"frozenset({'CO2_Category_High_CO2', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.14,"frozenset({'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'CO2_Category_High_CO2'})",2
+0.14,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering'})",2
+0.14,"frozenset({'Aid_Category_Medium_Aid', 'Rainfall_Category_Medium_Rainfall'})",2
+0.14,"frozenset({'Year_Category_Recent_Year', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.14,"frozenset({'Tree_Cover_Loss_Category_High_Tree_Cover_Loss', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.14,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.14,"frozenset({'Population_Category_High_Population', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",2
+0.14,"frozenset({'Population_Category_High_Population', 'Protected_Areas_Category_Medium_Protected_Area'})",2
+0.14,"frozenset({'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss', 'Rainfall_Category_Medium_Rainfall'})",2
+0.14,"frozenset({'Rainfall_Category_High_Rainfall', 'Population_Category_Medium_Population'})",2
+0.14,"frozenset({'Population_Category_Medium_Population', 'Year_Category_Middle_Year'})",2
+0.14,"frozenset({'Aid_Category_Low_Aid', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",2
+0.14,"frozenset({'Population_Category_Low_Population', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",2
+0.14,"frozenset({'Rainfall_Category_Low_Rainfall', 'GDP_Category_Medium_GDP'})",2
+0.14,"frozenset({'Forest_Loss_Category_High_Forest_Loss', 'Population_Category_Low_Population'})",2
+0.14,"frozenset({'CO2_Category_Low_CO2', 'Year_Category_Old_Year'})",2
+0.14,"frozenset({'Rainfall_Category_Medium_Rainfall', 'Forest_Loss_Category_Medium_Forest_Loss'})",2
+0.14,"frozenset({'Population_Category_Medium_Population', 'Forest_Loss_Category_Low_Forest_Loss'})",2
+0.14,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'GDP_Category_Medium_GDP'})",2
+0.14,"frozenset({'GDP_Category_High_GDP', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",2
+0.14,"frozenset({'CO2_Category_Low_CO2', 'Population_Category_Low_Population'})",2
+0.14,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'CO2_Category_Low_CO2'})",2
+0.14,"frozenset({'GDP_Category_Medium_GDP', 'Year_Category_Middle_Year'})",2
+0.14,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Aid_Category_Medium_Aid'})",2
+0.14,"frozenset({'Forest_Loss_Category_High_Forest_Loss', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.14,"frozenset({'Forest_Loss_Category_High_Forest_Loss', 'GDP_Category_High_GDP'})",2
+0.14,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",2
+0.14,"frozenset({'CO2_Category_Medium_CO2', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",2
+0.14,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'GDP_Category_High_GDP'})",2
+0.14,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Agriculture_Land_Category_High_Agriculture_Land'})",2
+0.13,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption'})",3
+0.13,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",3
+0.13,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year'})",3
+0.13,"frozenset({'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss', 'Year_Category_Old_Year'})",2
+0.13,"frozenset({'Year_Category_Recent_Year', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",2
+0.13,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'GDP_Category_High_GDP', 'Corruption_Category_High_Corruption'})",3
+0.13,"frozenset({'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss', 'Corruption_Category_High_Corruption', 'Rainfall_Category_Medium_Rainfall'})",3
+0.13,"frozenset({'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",3
+0.13,"frozenset({'Year_Category_Old_Year', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",3
+0.13,"frozenset({'Rainfall_Category_Low_Rainfall', 'Population_Category_High_Population', 'Policy_Category_Weak_Policy'})",3
+0.13,"frozenset({'Rainfall_Category_Low_Rainfall', 'Protected_Areas_Category_Medium_Protected_Area', 'Policy_Category_Weak_Policy'})",3
+0.13,"frozenset({'Rainfall_Category_Low_Rainfall', 'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.13,"frozenset({'CO2_Category_Medium_CO2', 'Year_Category_Middle_Year'})",2
+0.13,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Year_Category_Recent_Year'})",2
+0.13,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Policy_Category_Moderate_Policy', 'Corruption_Category_High_Corruption'})",3
+0.13,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Agriculture_Land_Category_Medium_Agriculture_Land', 'Corruption_Category_High_Corruption'})",3
+0.13,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",3
+0.13,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",2
+0.13,"frozenset({'Rainfall_Category_High_Rainfall', 'Year_Category_Recent_Year'})",2
+0.13,"frozenset({'Year_Category_Middle_Year', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",2
+0.13,"frozenset({'CO2_Category_High_CO2', 'Corruption_Category_High_Corruption', 'Aid_Category_High_Aid'})",3
+0.13,"frozenset({'Aid_Category_High_Aid', 'Corruption_Category_High_Corruption', 'Forest_Loss_Category_Medium_Forest_Loss'})",3
+0.13,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Rainfall_Category_High_Rainfall', 'Corruption_Category_High_Corruption'})",3
+0.13,"frozenset({'Corruption_Category_High_Corruption', 'Protected_Areas_Category_Low_Protected_Area', 'Year_Category_Old_Year'})",3
+0.13,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",3
+0.13,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'CO2_Category_High_CO2'})",2
+0.13,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'CO2_Category_Low_CO2'})",2
+0.13,"frozenset({'Country_Brazil', 'Policy_Category_Weak_Policy'})",2
+0.13,"frozenset({'Population_Category_High_Population', 'Country_Indonesia'})",2
+0.13,"frozenset({'Rainfall_Category_High_Rainfall', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",3
+0.13,"frozenset({'Rainfall_Category_Low_Rainfall', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",3
+0.13,"frozenset({'Rainfall_Category_Low_Rainfall', 'Corruption_Category_High_Corruption', 'Year_Category_Old_Year'})",3
+0.13,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption', 'Aid_Category_High_Aid'})",3
+0.13,"frozenset({'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Corruption_Category_High_Corruption', 'Aid_Category_High_Aid'})",3
+0.13,"frozenset({'Rainfall_Category_Low_Rainfall', 'Aid_Category_High_Aid', 'Policy_Category_Weak_Policy'})",3
+0.13,"frozenset({'Aid_Category_Low_Aid', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption'})",3
+0.13,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Year_Category_Recent_Year'})",2
+0.13,"frozenset({'Protected_Areas_Category_Low_Protected_Area', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",2
+0.13,"frozenset({'Protected_Areas_Category_Low_Protected_Area', 'Year_Category_Old_Year'})",2
+0.13,"frozenset({'Aid_Category_Low_Aid', 'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Corruption_Category_High_Corruption'})",3
+0.13,"frozenset({'Rainfall_Category_Low_Rainfall', 'Agriculture_Land_Category_Low_Agriculture_Land'})",2
+0.13,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Year_Category_Middle_Year'})",2
+0.13,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Year_Category_Old_Year'})",2
+0.13,"frozenset({'Population_Category_High_Population', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",3
+0.13,"frozenset({'Rainfall_Category_High_Rainfall', 'Forest_Loss_Category_High_Forest_Loss'})",2
+0.13,"frozenset({'Population_Category_Low_Population', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",3
+0.13,"frozenset({'Population_Category_Medium_Population', 'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year'})",3
+0.13,"frozenset({'Aid_Category_Low_Aid', 'Population_Category_High_Population', 'Corruption_Category_High_Corruption'})",3
+0.13,"frozenset({'Aid_Category_Low_Aid', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",3
+0.13,"frozenset({'CO2_Category_Medium_CO2', 'Aid_Category_Medium_Aid'})",2
+0.13,"frozenset({'Forest_Loss_Category_High_Forest_Loss', 'Aid_Category_Medium_Aid'})",2
+0.13,"frozenset({'Aid_Category_Medium_Aid', 'Forest_Loss_Category_Low_Forest_Loss'})",2
+0.13,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Population_Category_Medium_Population'})",2
+0.13,"frozenset({'GDP_Category_High_GDP', 'Aid_Category_Medium_Aid', 'Corruption_Category_High_Corruption'})",3
+0.13,"frozenset({'Rainfall_Category_High_Rainfall', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption'})",3
+0.13,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",3
+0.13,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Forest_Loss_Category_Low_Forest_Loss'})",2
+0.13,"frozenset({'Aid_Category_Medium_Aid', 'Corruption_Category_High_Corruption', 'Rainfall_Category_Medium_Rainfall'})",3
+0.13,"frozenset({'Aid_Category_Medium_Aid', 'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year'})",3
+0.13,"frozenset({'Policy_Category_Moderate_Policy', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",2
+0.13,"frozenset({'Population_Category_High_Population', 'Year_Category_Recent_Year'})",2
+0.13,"frozenset({'Population_Category_Medium_Population', 'Aid_Category_Medium_Aid', 'Policy_Category_Weak_Policy'})",3
+0.13,"frozenset({'Year_Category_Recent_Year', 'Aid_Category_High_Aid'})",2
+0.13,"frozenset({'Aid_Category_Low_Aid', 'CO2_Category_Low_CO2'})",2
+0.13,"frozenset({'Corruption_Category_High_Corruption', 'Protected_Areas_Category_Low_Protected_Area', 'CO2_Category_High_CO2'})",3
+0.13,"frozenset({'Aid_Category_Medium_Aid', 'Year_Category_Middle_Year'})",2
+0.13,"frozenset({'Aid_Category_Medium_Aid', 'Year_Category_Old_Year'})",2
+0.13,"frozenset({'GDP_Category_Low_GDP', 'CO2_Category_High_CO2'})",2
+0.13,"frozenset({'GDP_Category_Medium_GDP', 'CO2_Category_High_CO2'})",2
+0.13,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption'})",3
+0.13,"frozenset({'Population_Category_High_Population', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption'})",3
+0.13,"frozenset({'Population_Category_Low_Population', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption'})",3
+0.13,"frozenset({'Rainfall_Category_High_Rainfall', 'Agriculture_Land_Category_Medium_Agriculture_Land'})",2
+0.13,"frozenset({'Population_Category_High_Population', 'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Corruption_Category_High_Corruption'})",3
+0.13,"frozenset({'Rainfall_Category_High_Rainfall', 'Forest_Loss_Category_Low_Forest_Loss'})",2
+0.13,"frozenset({'Forest_Loss_Category_Low_Forest_Loss', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",2
+0.13,"frozenset({'Forest_Loss_Category_Low_Forest_Loss', 'Year_Category_Old_Year'})",2
+0.13,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Protected_Areas_Category_Low_Protected_Area'})",3
+0.13,"frozenset({'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption', 'Year_Category_Old_Year'})",3
+0.13,"frozenset({'Year_Category_Old_Year', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.13,"frozenset({'Country_Brazil', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.13,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Forest_Loss_Category_Low_Forest_Loss'})",2
+0.13,"frozenset({'Protected_Areas_Category_Low_Protected_Area', 'Forest_Loss_Category_Medium_Forest_Loss'})",2
+0.13,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'GDP_Category_High_GDP'})",2
+0.13,"frozenset({'GDP_Category_High_GDP', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.13,"frozenset({'Rainfall_Category_Low_Rainfall', 'GDP_Category_High_GDP'})",2
+0.13,"frozenset({'GDP_Category_High_GDP', 'Rainfall_Category_Medium_Rainfall'})",2
+0.13,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'GDP_Category_High_GDP'})",2
+0.13,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Agriculture_Land_Category_Medium_Agriculture_Land'})",2
+0.13,"frozenset({'GDP_Category_High_GDP', 'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.13,"frozenset({'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",3
+0.13,"frozenset({'Population_Category_Low_Population', 'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.13,"frozenset({'Rainfall_Category_High_Rainfall', 'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.13,"frozenset({'Rainfall_Category_Low_Rainfall', 'CO2_Category_High_CO2'})",2
+0.13,"frozenset({'Rainfall_Category_High_Rainfall', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering'})",2
+0.13,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",2
+0.13,"frozenset({'Forest_Loss_Category_Low_Forest_Loss', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",3
+0.13,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Year_Category_Recent_Year'})",2
+0.13,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Aid_Category_High_Aid'})",2
+0.13,"frozenset({'Forest_Loss_Category_Low_Forest_Loss', 'Corruption_Category_High_Corruption', 'Year_Category_Old_Year'})",3
+0.13,"frozenset({'Population_Category_High_Population', 'Illegal_Lumbering_Category_High_Illegal_Lumbering'})",2
+0.13,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Illegal_Lumbering_Category_High_Illegal_Lumbering'})",2
+0.13,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",2
+0.13,"frozenset({'Policy_Category_Moderate_Policy', 'CO2_Category_High_CO2'})",2
+0.13,"frozenset({'Protected_Areas_Category_Low_Protected_Area', 'CO2_Category_High_CO2'})",2
+0.13,"frozenset({'Population_Category_High_Population', 'CO2_Category_Low_CO2'})",2
+0.13,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'CO2_Category_Low_CO2'})",2
+0.13,"frozenset({'CO2_Category_Low_CO2', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",2
+0.13,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'GDP_Category_Low_GDP'})",2
+0.13,"frozenset({'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",3
+0.13,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption'})",3
+0.13,"frozenset({'Population_Category_High_Population', 'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption'})",3
+0.13,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Aid_Category_Medium_Aid'})",2
+0.13,"frozenset({'GDP_Category_Low_GDP', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",2
+0.13,"frozenset({'GDP_Category_Medium_GDP', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",2
+0.13,"frozenset({'Rainfall_Category_Medium_Rainfall', 'Corruption_Category_High_Corruption', 'Forest_Loss_Category_Medium_Forest_Loss'})",3
+0.13,"frozenset({'GDP_Category_High_GDP', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption'})",3
+0.13,"frozenset({'GDP_Category_High_GDP', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",3
+0.13,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption'})",3
+0.13,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Aid_Category_High_Aid'})",3
+0.13,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Aid_Category_High_Aid', 'Policy_Category_Weak_Policy'})",3
+0.13,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption'})",3
+0.13,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",3
+0.13,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Forest_Loss_Category_Medium_Forest_Loss', 'Policy_Category_Weak_Policy'})",3
+0.13,"frozenset({'Aid_Category_Low_Aid', 'Population_Category_High_Population'})",2
+0.13,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Policy_Category_Weak_Policy', 'Corruption_Category_High_Corruption', 'Forest_Loss_Category_Medium_Forest_Loss'})",4
+0.13,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering'})",2
+0.12,"frozenset({'Forest_Loss_Category_Medium_Forest_Loss', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.12,"frozenset({'Aid_Category_Medium_Aid', 'Population_Category_Medium_Population', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.12,"frozenset({'Rainfall_Category_Low_Rainfall', 'Aid_Category_High_Aid', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.12,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Aid_Category_High_Aid', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.12,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Population_Category_Low_Population'})",2
+0.12,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Illegal_Lumbering_Category_High_Illegal_Lumbering'})",2
+0.12,"frozenset({'Forest_Loss_Category_Medium_Forest_Loss', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.12,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.12,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Aid_Category_High_Aid', 'Policy_Category_Weak_Policy'})",4
+0.12,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.12,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.12,"frozenset({'Rainfall_Category_Low_Rainfall', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss', 'Policy_Category_Weak_Policy'})",3
+0.12,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Forest_Loss_Category_Medium_Forest_Loss'})",2
+0.12,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Forest_Loss_Category_High_Forest_Loss'})",2
+0.12,"frozenset({'Aid_Category_Low_Aid', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",2
+0.12,"frozenset({'Aid_Category_Low_Aid', 'Protected_Areas_Category_Low_Protected_Area'})",2
+0.12,"frozenset({'Aid_Category_Low_Aid', 'Policy_Category_Moderate_Policy'})",2
+0.12,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Policy_Category_Weak_Policy'})",3
+0.12,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Agriculture_Land_Category_High_Agriculture_Land', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Aid_Category_Low_Aid', 'GDP_Category_High_GDP'})",2
+0.12,"frozenset({'Aid_Category_Low_Aid', 'Forest_Loss_Category_Low_Forest_Loss'})",2
+0.12,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Agriculture_Land_Category_High_Agriculture_Land', 'Policy_Category_Weak_Policy'})",3
+0.12,"frozenset({'Year_Category_Recent_Year', 'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.12,"frozenset({'GDP_Category_High_GDP', 'Corruption_Category_High_Corruption', 'Rainfall_Category_Medium_Rainfall'})",3
+0.12,"frozenset({'Rainfall_Category_Low_Rainfall', 'GDP_Category_High_GDP', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'GDP_Category_High_GDP', 'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'GDP_Category_High_GDP', 'Corruption_Category_High_Corruption', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",3
+0.12,"frozenset({'Corruption_Category_High_Corruption', 'Protected_Areas_Category_Low_Protected_Area', 'Forest_Loss_Category_Medium_Forest_Loss'})",3
+0.12,"frozenset({'GDP_Category_Medium_GDP', 'Protected_Areas_Category_Low_Protected_Area'})",2
+0.12,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'GDP_Category_Medium_GDP'})",2
+0.12,"frozenset({'Population_Category_Medium_Population', 'GDP_Category_Medium_GDP'})",2
+0.12,"frozenset({'GDP_Category_Medium_GDP', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.12,"frozenset({'GDP_Category_Low_GDP', 'Protected_Areas_Category_Medium_Protected_Area'})",2
+0.12,"frozenset({'CO2_Category_Medium_CO2', 'Agriculture_Land_Category_Medium_Agriculture_Land'})",2
+0.12,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'CO2_Category_High_CO2'})",2
+0.12,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Population_Category_Low_Population', 'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'GDP_Category_Low_GDP', 'Population_Category_Low_Population'})",2
+0.12,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'GDP_Category_Low_GDP'})",2
+0.12,"frozenset({'CO2_Category_Low_CO2', 'Rainfall_Category_Medium_Rainfall'})",2
+0.12,"frozenset({'Rainfall_Category_High_Rainfall', 'CO2_Category_Low_CO2'})",2
+0.12,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'GDP_Category_Low_GDP'})",2
+0.12,"frozenset({'Population_Category_Medium_Population', 'GDP_Category_Low_GDP'})",2
+0.12,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Population_Category_Low_Population'})",2
+0.12,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",2
+0.12,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Rainfall_Category_Medium_Rainfall'})",2
+0.12,"frozenset({'Rainfall_Category_Low_Rainfall', 'Illegal_Lumbering_Category_High_Illegal_Lumbering'})",2
+0.12,"frozenset({'GDP_Category_Low_GDP', 'Aid_Category_High_Aid'})",2
+0.12,"frozenset({'Population_Category_Medium_Population', 'Forest_Loss_Category_Low_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Forest_Loss_Category_Low_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Year_Category_Recent_Year', 'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",3
+0.12,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Protected_Areas_Category_Medium_Protected_Area'})",2
+0.12,"frozenset({'CO2_Category_Low_CO2', 'Forest_Loss_Category_High_Forest_Loss'})",2
+0.12,"frozenset({'CO2_Category_High_CO2', 'Year_Category_Old_Year'})",2
+0.12,"frozenset({'Rainfall_Category_High_Rainfall', 'CO2_Category_High_CO2'})",2
+0.12,"frozenset({'Population_Category_High_Population', 'Country_Indonesia', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Population_Category_Medium_Population'})",2
+0.12,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Population_Category_High_Population'})",2
+0.12,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.12,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Illegal_Lumbering_Category_High_Illegal_Lumbering'})",2
+0.12,"frozenset({'CO2_Category_Low_CO2', 'Forest_Loss_Category_Medium_Forest_Loss'})",2
+0.12,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'GDP_Category_High_GDP'})",2
+0.12,"frozenset({'GDP_Category_High_GDP', 'Protected_Areas_Category_Low_Protected_Area'})",2
+0.12,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Forest_Loss_Category_Medium_Forest_Loss'})",2
+0.12,"frozenset({'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.12,"frozenset({'Rainfall_Category_Low_Rainfall', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.12,"frozenset({'Protected_Areas_Category_Low_Protected_Area', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.12,"frozenset({'Population_Category_Medium_Population', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.12,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Year_Category_Middle_Year'})",2
+0.12,"frozenset({'CO2_Category_Medium_CO2', 'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year'})",3
+0.12,"frozenset({'CO2_Category_Medium_CO2', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",3
+0.12,"frozenset({'CO2_Category_Low_CO2', 'GDP_Category_High_GDP', 'Policy_Category_Weak_Policy'})",3
+0.12,"frozenset({'CO2_Category_Low_CO2', 'Forest_Loss_Category_Medium_Forest_Loss', 'Policy_Category_Weak_Policy'})",3
+0.12,"frozenset({'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",3
+0.12,"frozenset({'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption', 'Rainfall_Category_Medium_Rainfall'})",3
+0.12,"frozenset({'Rainfall_Category_High_Rainfall', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Population_Category_Low_Population', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",3
+0.12,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Rainfall_Category_Medium_Rainfall'})",3
+0.12,"frozenset({'Population_Category_High_Population', 'Forest_Loss_Category_Medium_Forest_Loss'})",2
+0.12,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Forest_Loss_Category_Medium_Forest_Loss'})",2
+0.12,"frozenset({'Forest_Loss_Category_Low_Forest_Loss', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",2
+0.12,"frozenset({'Forest_Loss_Category_Low_Forest_Loss', 'Protected_Areas_Category_Low_Protected_Area'})",2
+0.12,"frozenset({'Policy_Category_Moderate_Policy', 'Forest_Loss_Category_Low_Forest_Loss'})",2
+0.12,"frozenset({'Rainfall_Category_Low_Rainfall', 'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption', 'Forest_Loss_Category_Medium_Forest_Loss'})",3
+0.12,"frozenset({'Forest_Loss_Category_Low_Forest_Loss', 'CO2_Category_High_CO2'})",2
+0.12,"frozenset({'Forest_Loss_Category_High_Forest_Loss', 'CO2_Category_High_CO2'})",2
+0.12,"frozenset({'Aid_Category_Medium_Aid', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",2
+0.12,"frozenset({'Rainfall_Category_High_Rainfall', 'Aid_Category_Medium_Aid'})",2
+0.12,"frozenset({'Rainfall_Category_Low_Rainfall', 'Corruption_Category_High_Corruption', 'CO2_Category_High_CO2'})",3
+0.12,"frozenset({'Protected_Areas_Category_Low_Protected_Area', 'Aid_Category_High_Aid'})",2
+0.12,"frozenset({'Illegal_Lumbering_Category_Medium_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'CO2_Category_High_CO2'})",3
+0.12,"frozenset({'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption', 'CO2_Category_High_CO2'})",3
+0.12,"frozenset({'Aid_Category_Medium_Aid', 'Corruption_Category_High_Corruption', 'Year_Category_Old_Year'})",3
+0.12,"frozenset({'Aid_Category_Low_Aid', 'Year_Category_Recent_Year'})",2
+0.12,"frozenset({'Aid_Category_Low_Aid', 'Year_Category_Old_Year'})",2
+0.12,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Population_Category_Low_Population'})",2
+0.12,"frozenset({'Population_Category_High_Population', 'Year_Category_Old_Year'})",2
+0.12,"frozenset({'Population_Category_High_Population', 'Rainfall_Category_Medium_Rainfall'})",2
+0.12,"frozenset({'Policy_Category_Moderate_Policy', 'Year_Category_Old_Year'})",2
+0.12,"frozenset({'Aid_Category_Medium_Aid', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Population_Category_Low_Population'})",2
+0.12,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Population_Category_High_Population'})",2
+0.12,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.12,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Forest_Loss_Category_Low_Forest_Loss'})",2
+0.12,"frozenset({'Year_Category_Recent_Year', 'Forest_Loss_Category_High_Forest_Loss'})",2
+0.12,"frozenset({'CO2_Category_Medium_CO2', 'Population_Category_High_Population'})",2
+0.12,"frozenset({'CO2_Category_Medium_CO2', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering'})",2
+0.12,"frozenset({'CO2_Category_Medium_CO2', 'GDP_Category_Medium_GDP'})",2
+0.12,"frozenset({'Year_Category_Recent_Year', 'Corruption_Category_High_Corruption', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",3
+0.12,"frozenset({'Year_Category_Old_Year', 'Corruption_Category_High_Corruption', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",3
+0.12,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",3
+0.12,"frozenset({'Population_Category_Medium_Population', 'Corruption_Category_High_Corruption', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",3
+0.12,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year'})",3
+0.12,"frozenset({'Aid_Category_Medium_Aid', 'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'CO2_Category_Medium_CO2', 'Aid_Category_Medium_Aid', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Year_Category_Recent_Year', 'Population_Category_Low_Population'})",2
+0.12,"frozenset({'Population_Category_Low_Population', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",2
+0.12,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Aid_Category_Medium_Aid'})",2
+0.12,"frozenset({'CO2_Category_Low_CO2', 'Aid_Category_Medium_Aid'})",2
+0.12,"frozenset({'Aid_Category_Low_Aid', 'Year_Category_Recent_Year', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Aid_Category_Low_Aid', 'Corruption_Category_High_Corruption', 'Year_Category_Old_Year'})",3
+0.12,"frozenset({'Aid_Category_Low_Aid', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",3
+0.12,"frozenset({'Rainfall_Category_High_Rainfall', 'Population_Category_Medium_Population', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Population_Category_Medium_Population', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Population_Category_Low_Population', 'Year_Category_Recent_Year', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Population_Category_Low_Population', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",3
+0.12,"frozenset({'Forest_Loss_Category_High_Forest_Loss', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",2
+0.12,"frozenset({'Forest_Loss_Category_High_Forest_Loss', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",2
+0.12,"frozenset({'Rainfall_Category_Low_Rainfall', 'Forest_Loss_Category_High_Forest_Loss'})",2
+0.12,"frozenset({'Population_Category_High_Population', 'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Aid_Category_Low_Aid', 'Agriculture_Land_Category_Medium_Agriculture_Land'})",2
+0.12,"frozenset({'GDP_Category_High_GDP', 'Aid_Category_Low_Aid', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Protected_Areas_Category_Low_Protected_Area', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",2
+0.12,"frozenset({'Rainfall_Category_Low_Rainfall', 'Protected_Areas_Category_Low_Protected_Area'})",2
+0.12,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Year_Category_Middle_Year'})",2
+0.12,"frozenset({'Population_Category_Medium_Population', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",2
+0.12,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Aid_Category_High_Aid', 'Policy_Category_Weak_Policy'})",3
+0.12,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Aid_Category_High_Aid', 'Policy_Category_Weak_Policy'})",3
+0.12,"frozenset({'Policy_Category_Weak_Policy', 'Aid_Category_High_Aid', 'Forest_Loss_Category_Medium_Forest_Loss'})",3
+0.12,"frozenset({'Rainfall_Category_High_Rainfall', 'Year_Category_Recent_Year', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Country_Indonesia', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",2
+0.12,"frozenset({'Population_Category_Medium_Population', 'Country_Brazil'})",2
+0.12,"frozenset({'Corruption_Category_High_Corruption', 'Protected_Areas_Category_Low_Protected_Area', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",3
+0.12,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Year_Category_Recent_Year', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year'})",3
+0.12,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Aid_Category_High_Aid'})",3
+0.12,"frozenset({'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption', 'Aid_Category_High_Aid'})",3
+0.12,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Year_Category_Recent_Year', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Year_Category_Recent_Year', 'Rainfall_Category_Medium_Rainfall'})",2
+0.12,"frozenset({'Rainfall_Category_High_Rainfall', 'Year_Category_Middle_Year'})",2
+0.12,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Year_Category_Old_Year'})",2
+0.12,"frozenset({'Rainfall_Category_High_Rainfall', 'Agriculture_Land_Category_Medium_Agriculture_Land', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'GDP_Category_High_GDP', 'Agriculture_Land_Category_Medium_Agriculture_Land', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'CO2_Category_Medium_CO2', 'Agriculture_Land_Category_Low_Agriculture_Land'})",2
+0.12,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'CO2_Category_Low_CO2'})",2
+0.12,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",2
+0.12,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Population_Category_Medium_Population'})",2
+0.12,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Policy_Category_Weak_Policy'})",3
+0.12,"frozenset({'Year_Category_Recent_Year', 'GDP_Category_Low_GDP', 'Policy_Category_Weak_Policy'})",3
+0.12,"frozenset({'Year_Category_Recent_Year', 'Forest_Loss_Category_Medium_Forest_Loss', 'Policy_Category_Weak_Policy'})",3
+0.12,"frozenset({'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Forest_Loss_Category_Medium_Forest_Loss', 'Policy_Category_Weak_Policy'})",3
+0.12,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Corruption_Category_High_Corruption', 'CO2_Category_High_CO2'})",3
+0.12,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Aid_Category_Medium_Aid'})",3
+0.12,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'CO2_Category_Low_CO2', 'Policy_Category_Weak_Policy'})",3
+0.12,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Aid_Category_Medium_Aid', 'Policy_Category_Weak_Policy'})",3
+0.12,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Aid_Category_Medium_Aid', 'Corruption_Category_High_Corruption'})",3
+0.12,"frozenset({'Tree_Cover_Loss_Category_High_Tree_Cover_Loss', 'Year_Category_Old_Year'})",2
+0.12,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Policy_Category_Weak_Policy'})",3
+0.12,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Year_Category_Old_Year'})",3
+0.12,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Population_Category_Low_Population'})",3
+0.12,"frozenset({'GDP_Category_High_GDP', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.12,"frozenset({'Rainfall_Category_Low_Rainfall', 'Population_Category_High_Population', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.12,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.11,"frozenset({'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Aid_Category_High_Aid', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.11,"frozenset({'Policy_Category_Weak_Policy', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Aid_Category_High_Aid'})",4
+0.11,"frozenset({'GDP_Category_Low_GDP', 'Aid_Category_High_Aid', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.11,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.11,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Agriculture_Land_Category_High_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.11,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'GDP_Category_High_GDP', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.11,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Aid_Category_Medium_Aid', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.11,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Aid_Category_Low_Aid', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Year_Category_Recent_Year', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Population_Category_Medium_Population', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'Rainfall_Category_Low_Rainfall', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.11,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'GDP_Category_Low_GDP'})",2
+0.11,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Country_Brazil'})",2
+0.11,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Aid_Category_Low_Aid'})",2
+0.11,"frozenset({'CO2_Category_Medium_CO2', 'Year_Category_Recent_Year'})",2
+0.11,"frozenset({'CO2_Category_Medium_CO2', 'Rainfall_Category_Medium_Rainfall'})",2
+0.11,"frozenset({'Rainfall_Category_Low_Rainfall', 'CO2_Category_Medium_CO2'})",2
+0.11,"frozenset({'CO2_Category_Medium_CO2', 'Protected_Areas_Category_Medium_Protected_Area'})",2
+0.11,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'CO2_Category_Medium_CO2'})",2
+0.11,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Year_Category_Middle_Year'})",2
+0.11,"frozenset({'Rainfall_Category_Low_Rainfall', 'Agriculture_Land_Category_High_Agriculture_Land'})",2
+0.11,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Protected_Areas_Category_Low_Protected_Area'})",2
+0.11,"frozenset({'Aid_Category_Low_Aid', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.11,"frozenset({'Aid_Category_Low_Aid', 'GDP_Category_Medium_GDP'})",2
+0.11,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'GDP_Category_High_GDP', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Year_Category_Recent_Year', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year'})",3
+0.11,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Protected_Areas_Category_Low_Protected_Area', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Population_Category_Medium_Population', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Population_Category_Low_Population', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Rainfall_Category_High_Rainfall', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Year_Category_Recent_Year', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Population_Category_Low_Population', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'Rainfall_Category_High_Rainfall', 'Population_Category_Low_Population', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'Population_Category_High_Population', 'Year_Category_Recent_Year', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'Rainfall_Category_Low_Rainfall', 'Agriculture_Land_Category_Low_Agriculture_Land', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",3
+0.11,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Forest_Loss_Category_Medium_Forest_Loss'})",3
+0.11,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'CO2_Category_Medium_CO2', 'Agriculture_Land_Category_Low_Agriculture_Land', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Aid_Category_Low_Aid', 'Protected_Areas_Category_Medium_Protected_Area'})",2
+0.11,"frozenset({'Aid_Category_Low_Aid', 'Population_Category_Low_Population'})",2
+0.11,"frozenset({'Policy_Category_Weak_Policy', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",3
+0.11,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'Population_Category_High_Population', 'GDP_Category_Medium_GDP', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'Policy_Category_Weak_Policy', 'GDP_Category_High_GDP', 'Year_Category_Old_Year'})",3
+0.11,"frozenset({'Rainfall_Category_Medium_Rainfall', 'GDP_Category_High_GDP', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'GDP_Category_Low_GDP', 'Forest_Loss_Category_Medium_Forest_Loss', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'Forest_Loss_Category_Low_Forest_Loss', 'Year_Category_Middle_Year', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'GDP_Category_Medium_GDP', 'Forest_Loss_Category_Low_Forest_Loss', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'Country_Indonesia', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'Year_Category_Recent_Year', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",3
+0.11,"frozenset({'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",3
+0.11,"frozenset({'Year_Category_Old_Year', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",3
+0.11,"frozenset({'Rainfall_Category_Low_Rainfall', 'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year'})",3
+0.11,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Forest_Loss_Category_Low_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Corruption_Category_High_Corruption', 'CO2_Category_High_CO2'})",3
+0.11,"frozenset({'Year_Category_Middle_Year', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",2
+0.11,"frozenset({'Year_Category_Recent_Year', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",2
+0.11,"frozenset({'Aid_Category_Low_Aid', 'Agriculture_Land_Category_Medium_Agriculture_Land', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'GDP_Category_Medium_GDP', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'Rainfall_Category_High_Rainfall', 'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year'})",3
+0.11,"frozenset({'Country_Russia', 'Forest_Loss_Category_Low_Forest_Loss'})",2
+0.11,"frozenset({'Country_Brazil', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",2
+0.11,"frozenset({'Country_Australia', 'Policy_Category_Weak_Policy'})",2
+0.11,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Forest_Loss_Category_Low_Forest_Loss'})",2
+0.11,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption', 'Year_Category_Old_Year'})",3
+0.11,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Year_Category_Old_Year'})",3
+0.11,"frozenset({'Rainfall_Category_Low_Rainfall', 'Year_Category_Middle_Year'})",2
+0.11,"frozenset({'Year_Category_Recent_Year', 'Protected_Areas_Category_Medium_Protected_Area'})",2
+0.11,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",3
+0.11,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Population_Category_Medium_Population', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Population_Category_High_Population', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",3
+0.11,"frozenset({'Corruption_Category_High_Corruption', 'Protected_Areas_Category_Low_Protected_Area', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",3
+0.11,"frozenset({'Rainfall_Category_Low_Rainfall', 'Corruption_Category_High_Corruption', 'Protected_Areas_Category_Low_Protected_Area'})",3
+0.11,"frozenset({'Population_Category_Medium_Population', 'Corruption_Category_High_Corruption', 'Year_Category_Old_Year'})",3
+0.11,"frozenset({'Population_Category_Medium_Population', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",3
+0.11,"frozenset({'Population_Category_Medium_Population', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",3
+0.11,"frozenset({'Population_Category_Low_Population', 'Corruption_Category_High_Corruption', 'Protected_Areas_Category_Low_Protected_Area'})",3
+0.11,"frozenset({'Year_Category_Recent_Year', 'CO2_Category_Low_CO2'})",2
+0.11,"frozenset({'CO2_Category_Low_CO2', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",2
+0.11,"frozenset({'Population_Category_High_Population', 'Forest_Loss_Category_High_Forest_Loss'})",2
+0.11,"frozenset({'Policy_Category_Moderate_Policy', 'Forest_Loss_Category_High_Forest_Loss'})",2
+0.11,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Forest_Loss_Category_High_Forest_Loss'})",2
+0.11,"frozenset({'GDP_Category_Medium_GDP', 'Forest_Loss_Category_High_Forest_Loss'})",2
+0.11,"frozenset({'Rainfall_Category_High_Rainfall', 'Country_Russia'})",2
+0.11,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Population_Category_Low_Population', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Population_Category_High_Population', 'Corruption_Category_High_Corruption', 'Year_Category_Old_Year'})",3
+0.11,"frozenset({'Year_Category_Recent_Year', 'Aid_Category_High_Aid', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Aid_Category_High_Aid', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'GDP_Category_Low_GDP', 'Aid_Category_High_Aid', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'Year_Category_Recent_Year', 'Corruption_Category_High_Corruption', 'Aid_Category_High_Aid'})",3
+0.11,"frozenset({'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year', 'Aid_Category_High_Aid'})",3
+0.11,"frozenset({'Corruption_Category_High_Corruption', 'Protected_Areas_Category_Low_Protected_Area', 'Aid_Category_High_Aid'})",3
+0.11,"frozenset({'Population_Category_Low_Population', 'Corruption_Category_High_Corruption', 'Aid_Category_High_Aid'})",3
+0.11,"frozenset({'Population_Category_High_Population', 'Corruption_Category_High_Corruption', 'Aid_Category_High_Aid'})",3
+0.11,"frozenset({'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption', 'Aid_Category_High_Aid'})",3
+0.11,"frozenset({'Aid_Category_Low_Aid', 'Policy_Category_Moderate_Policy', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Aid_Category_Low_Aid', 'Corruption_Category_High_Corruption', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",3
+0.11,"frozenset({'Aid_Category_Low_Aid', 'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Protected_Areas_Category_Low_Protected_Area', 'Year_Category_Middle_Year'})",2
+0.11,"frozenset({'Protected_Areas_Category_Low_Protected_Area', 'Rainfall_Category_Medium_Rainfall'})",2
+0.11,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",2
+0.11,"frozenset({'Population_Category_Medium_Population', 'Year_Category_Old_Year'})",2
+0.11,"frozenset({'Population_Category_Medium_Population', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",2
+0.11,"frozenset({'Aid_Category_Low_Aid', 'Forest_Loss_Category_Low_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Aid_Category_Low_Aid', 'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Aid_Category_Low_Aid', 'Country_Russia', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Protected_Areas_Category_Low_Protected_Area'})",2
+0.11,"frozenset({'Forest_Loss_Category_High_Forest_Loss', 'Year_Category_Old_Year'})",2
+0.11,"frozenset({'Forest_Loss_Category_High_Forest_Loss', 'Year_Category_Middle_Year'})",2
+0.11,"frozenset({'CO2_Category_Medium_CO2', 'Policy_Category_Moderate_Policy'})",2
+0.11,"frozenset({'CO2_Category_Medium_CO2', 'GDP_Category_High_GDP'})",2
+0.11,"frozenset({'CO2_Category_Medium_CO2', 'Forest_Loss_Category_Medium_Forest_Loss'})",2
+0.11,"frozenset({'CO2_Category_Medium_CO2', 'Forest_Loss_Category_Low_Forest_Loss'})",2
+0.11,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering'})",2
+0.11,"frozenset({'Aid_Category_Medium_Aid', 'Forest_Loss_Category_Low_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Aid_Category_Medium_Aid', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Population_Category_Medium_Population', 'Protected_Areas_Category_Low_Protected_Area'})",2
+0.11,"frozenset({'Population_Category_Low_Population', 'Year_Category_Old_Year'})",2
+0.11,"frozenset({'Aid_Category_Medium_Aid', 'Population_Category_Low_Population'})",2
+0.11,"frozenset({'Policy_Category_Moderate_Policy', 'Aid_Category_Medium_Aid'})",2
+0.11,"frozenset({'Aid_Category_Medium_Aid', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.11,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Aid_Category_Medium_Aid'})",2
+0.11,"frozenset({'GDP_Category_Low_GDP', 'Aid_Category_Medium_Aid'})",2
+0.11,"frozenset({'Aid_Category_Low_Aid', 'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Aid_Category_Low_Aid', 'Corruption_Category_High_Corruption', 'Protected_Areas_Category_Low_Protected_Area'})",3
+0.11,"frozenset({'Aid_Category_Low_Aid', 'Population_Category_Low_Population', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Population_Category_Low_Population', 'Protected_Areas_Category_Low_Protected_Area'})",2
+0.11,"frozenset({'Population_Category_High_Population', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",2
+0.11,"frozenset({'Population_Category_High_Population', 'Protected_Areas_Category_Low_Protected_Area'})",2
+0.11,"frozenset({'Policy_Category_Moderate_Policy', 'Year_Category_Middle_Year'})",2
+0.11,"frozenset({'Aid_Category_Medium_Aid', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",3
+0.11,"frozenset({'Rainfall_Category_High_Rainfall', 'Aid_Category_Medium_Aid', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Aid_Category_Medium_Aid', 'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Policy_Category_Moderate_Policy', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",3
+0.11,"frozenset({'Illegal_Lumbering_Category_Medium_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",3
+0.11,"frozenset({'Rainfall_Category_Low_Rainfall', 'Corruption_Category_High_Corruption', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",3
+0.11,"frozenset({'Rainfall_Category_High_Rainfall', 'Corruption_Category_High_Corruption', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",3
+0.11,"frozenset({'Corruption_Category_High_Corruption', 'Protected_Areas_Category_Low_Protected_Area', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",3
+0.11,"frozenset({'Population_Category_Low_Population', 'Corruption_Category_High_Corruption', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",3
+0.11,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Year_Category_Old_Year'})",3
+0.11,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",3
+0.11,"frozenset({'Rainfall_Category_Low_Rainfall', 'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Aid_Category_Low_Aid', 'Forest_Loss_Category_High_Forest_Loss'})",2
+0.11,"frozenset({'Aid_Category_Low_Aid', 'Country_Russia'})",2
+0.11,"frozenset({'Year_Category_Middle_Year', 'Aid_Category_High_Aid'})",2
+0.11,"frozenset({'Population_Category_Low_Population', 'Aid_Category_High_Aid'})",2
+0.11,"frozenset({'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption', 'CO2_Category_High_CO2'})",3
+0.11,"frozenset({'Forest_Loss_Category_Low_Forest_Loss', 'Corruption_Category_High_Corruption', 'CO2_Category_High_CO2'})",3
+0.11,"frozenset({'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption', 'CO2_Category_High_CO2'})",3
+0.11,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Population_Category_Low_Population', 'Forest_Loss_Category_Medium_Forest_Loss'})",2
+0.11,"frozenset({'Forest_Loss_Category_Medium_Forest_Loss', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.11,"frozenset({'GDP_Category_High_GDP', 'Forest_Loss_Category_Medium_Forest_Loss'})",2
+0.11,"frozenset({'Rainfall_Category_Low_Rainfall', 'Forest_Loss_Category_Low_Forest_Loss'})",2
+0.11,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Forest_Loss_Category_Low_Forest_Loss'})",2
+0.11,"frozenset({'Population_Category_High_Population', 'Forest_Loss_Category_Low_Forest_Loss'})",2
+0.11,"frozenset({'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",3
+0.11,"frozenset({'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption', 'Protected_Areas_Category_Low_Protected_Area'})",3
+0.11,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Protected_Areas_Category_Low_Protected_Area'})",2
+0.11,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'GDP_Category_Low_GDP'})",2
+0.11,"frozenset({'Aid_Category_Medium_Aid', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",2
+0.11,"frozenset({'Aid_Category_Medium_Aid', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",2
+0.11,"frozenset({'Rainfall_Category_High_Rainfall', 'Policy_Category_Moderate_Policy'})",2
+0.11,"frozenset({'Policy_Category_Moderate_Policy', 'Protected_Areas_Category_Low_Protected_Area'})",2
+0.11,"frozenset({'Year_Category_Old_Year', 'Corruption_Category_High_Corruption', 'CO2_Category_High_CO2'})",3
+0.11,"frozenset({'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year', 'CO2_Category_High_CO2'})",3
+0.11,"frozenset({'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Corruption_Category_High_Corruption', 'CO2_Category_High_CO2'})",3
+0.11,"frozenset({'CO2_Category_High_CO2', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",3
+0.11,"frozenset({'Rainfall_Category_High_Rainfall', 'Corruption_Category_High_Corruption', 'CO2_Category_High_CO2'})",3
+0.11,"frozenset({'Policy_Category_Moderate_Policy', 'Corruption_Category_High_Corruption', 'CO2_Category_High_CO2'})",3
+0.11,"frozenset({'Policy_Category_Moderate_Policy', 'GDP_Category_High_GDP'})",2
+0.11,"frozenset({'Rainfall_Category_Low_Rainfall', 'Forest_Loss_Category_Medium_Forest_Loss'})",2
+0.11,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Population_Category_Medium_Population', 'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",3
+0.11,"frozenset({'GDP_Category_Low_GDP', 'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Population_Category_Medium_Population', 'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'CO2_Category_Low_CO2', 'Population_Category_Low_Population', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'Population_Category_High_Population', 'CO2_Category_Low_CO2', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'CO2_Category_Low_CO2', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'Year_Category_Recent_Year', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",3
+0.11,"frozenset({'CO2_Category_Low_CO2', 'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'GDP_Category_Low_GDP', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'CO2_Category_Low_CO2', 'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'CO2_Category_Low_CO2', 'Protected_Areas_Category_Medium_Protected_Area'})",2
+0.11,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'CO2_Category_Low_CO2'})",2
+0.11,"frozenset({'GDP_Category_Low_GDP', 'CO2_Category_Low_CO2'})",2
+0.11,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'GDP_Category_High_GDP', 'Corruption_Category_High_Corruption', 'Protected_Areas_Category_Low_Protected_Area'})",3
+0.11,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption', 'Forest_Loss_Category_Medium_Forest_Loss'})",3
+0.11,"frozenset({'GDP_Category_Medium_GDP', 'Year_Category_Old_Year'})",2
+0.11,"frozenset({'GDP_Category_Medium_GDP', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",2
+0.11,"frozenset({'Rainfall_Category_High_Rainfall', 'GDP_Category_Medium_GDP'})",2
+0.11,"frozenset({'CO2_Category_Medium_CO2', 'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'CO2_Category_Medium_CO2', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'CO2_Category_Medium_CO2', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'CO2_Category_Medium_CO2', 'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Policy_Category_Weak_Policy', 'CO2_Category_Low_CO2', 'Year_Category_Old_Year'})",3
+0.11,"frozenset({'CO2_Category_Low_CO2', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'GDP_Category_Low_GDP', 'Year_Category_Middle_Year'})",2
+0.11,"frozenset({'GDP_Category_Low_GDP', 'Rainfall_Category_Medium_Rainfall'})",2
+0.11,"frozenset({'Population_Category_High_Population', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering'})",2
+0.11,"frozenset({'Population_Category_Medium_Population', 'Illegal_Lumbering_Category_High_Illegal_Lumbering'})",2
+0.11,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Policy_Category_Moderate_Policy'})",2
+0.11,"frozenset({'Population_Category_Low_Population', 'Corruption_Category_High_Corruption', 'Forest_Loss_Category_Medium_Forest_Loss'})",3
+0.11,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Forest_Loss_Category_Medium_Forest_Loss'})",3
+0.11,"frozenset({'Rainfall_Category_High_Rainfall', 'Country_Russia', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Country_Russia', 'Forest_Loss_Category_Low_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Country_Indonesia', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",3
+0.11,"frozenset({'Population_Category_Medium_Population', 'Country_Brazil', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Policy_Category_Moderate_Policy'})",2
+0.11,"frozenset({'Population_Category_High_Population', 'Policy_Category_Moderate_Policy'})",2
+0.11,"frozenset({'Rainfall_Category_High_Rainfall', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.11,"frozenset({'Population_Category_Low_Population', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.11,"frozenset({'Policy_Category_Moderate_Policy', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.11,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Year_Category_Old_Year'})",2
+0.11,"frozenset({'Country_Australia', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",3
+0.11,"frozenset({'GDP_Category_High_GDP', 'Corruption_Category_High_Corruption', 'Forest_Loss_Category_Medium_Forest_Loss'})",3
+0.11,"frozenset({'Aid_Category_High_Aid', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.11,"frozenset({'Country_Indonesia', 'Aid_Category_High_Aid'})",2
+0.11,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Year_Category_Old_Year'})",2
+0.11,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",2
+0.11,"frozenset({'Rainfall_Category_Low_Rainfall', 'Forest_Loss_Category_Low_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Rainfall_Category_High_Rainfall', 'Forest_Loss_Category_Low_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Forest_Loss_Category_Low_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Forest_Loss_Category_Low_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.11,"frozenset({'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year'})",3
+0.11,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",2
+0.11,"frozenset({'Year_Category_Recent_Year', 'CO2_Category_High_CO2'})",2
+0.11,"frozenset({'Year_Category_Middle_Year', 'CO2_Category_High_CO2'})",2
+0.11,"frozenset({'CO2_Category_High_CO2', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",2
+0.11,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'CO2_Category_High_CO2'})",2
+0.11,"frozenset({'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",3
+0.11,"frozenset({'Policy_Category_Weak_Policy', 'Aid_Category_High_Aid', 'Corruption_Category_High_Corruption', 'Forest_Loss_Category_Medium_Forest_Loss'})",4
+0.11,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'GDP_Category_Low_GDP'})",2
+0.11,"frozenset({'GDP_Category_High_GDP', 'Year_Category_Old_Year', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.11,"frozenset({'GDP_Category_High_GDP', 'Rainfall_Category_Medium_Rainfall', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.11,"frozenset({'Forest_Loss_Category_Medium_Forest_Loss', 'Year_Category_Recent_Year', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.11,"frozenset({'Forest_Loss_Category_Medium_Forest_Loss', 'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.11,"frozenset({'Forest_Loss_Category_Low_Forest_Loss', 'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year', 'Policy_Category_Weak_Policy'})",4
+0.11,"frozenset({'Population_Category_Low_Population', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.11,"frozenset({'Population_Category_High_Population', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.11,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.11,"frozenset({'CO2_Category_Low_CO2', 'Year_Category_Old_Year', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.11,"frozenset({'CO2_Category_Low_CO2', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.11,"frozenset({'Population_Category_Low_Population', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.11,"frozenset({'Rainfall_Category_High_Rainfall', 'Population_Category_Low_Population', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.11,"frozenset({'Illegal_Lumbering_Category_Medium_Illegal_Lumbering', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'CO2_Category_High_CO2', 'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Illegal_Lumbering_Category_Medium_Illegal_Lumbering', 'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Population_Category_High_Population', 'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Population_Category_High_Population', 'Year_Category_Recent_Year', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'CO2_Category_Low_CO2', 'Rainfall_Category_Medium_Rainfall', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'CO2_Category_Low_CO2', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Year_Category_Recent_Year', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption', 'Protected_Areas_Category_Low_Protected_Area', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Rainfall_Category_High_Rainfall', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Country_Indonesia', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Aid_Category_Low_Aid', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Year_Category_Recent_Year', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Year_Category_Recent_Year', 'Rainfall_Category_Medium_Rainfall', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss', 'Rainfall_Category_Medium_Rainfall', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Rainfall_Category_Low_Rainfall', 'Year_Category_Old_Year', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Year_Category_Middle_Year', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Protected_Areas_Category_Low_Protected_Area', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Year_Category_Recent_Year', 'Rainfall_Category_Medium_Rainfall', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss', 'Rainfall_Category_Medium_Rainfall', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Rainfall_Category_Low_Rainfall', 'Year_Category_Old_Year', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Population_Category_High_Population', 'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Rainfall_Category_High_Rainfall', 'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'CO2_Category_High_CO2'})",2
+0.1,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Year_Category_Old_Year'})",2
+0.1,"frozenset({'Rainfall_Category_High_Rainfall', 'Illegal_Lumbering_Category_High_Illegal_Lumbering'})",2
+0.1,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Population_Category_Low_Population'})",2
+0.1,"frozenset({'Population_Category_High_Population', 'Corruption_Category_High_Corruption', 'Forest_Loss_Category_Medium_Forest_Loss'})",3
+0.1,"frozenset({'Illegal_Lumbering_Category_Medium_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Forest_Loss_Category_Medium_Forest_Loss'})",3
+0.1,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Forest_Loss_Category_Medium_Forest_Loss'})",3
+0.1,"frozenset({'Country_Russia', 'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'Population_Category_Medium_Population', 'Policy_Category_Moderate_Policy'})",2
+0.1,"frozenset({'Rainfall_Category_Medium_Rainfall', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.1,"frozenset({'Population_Category_High_Population', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.1,"frozenset({'Year_Category_Recent_Year', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering'})",2
+0.1,"frozenset({'Forest_Loss_Category_Low_Forest_Loss', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",3
+0.1,"frozenset({'Forest_Loss_Category_High_Forest_Loss', 'Aid_Category_High_Aid'})",2
+0.1,"frozenset({'Country_Brazil', 'Aid_Category_High_Aid'})",2
+0.1,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'Rainfall_Category_Medium_Rainfall'})",2
+0.1,"frozenset({'GDP_Category_High_GDP', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",3
+0.1,"frozenset({'Year_Category_Old_Year', 'Corruption_Category_High_Corruption', 'Forest_Loss_Category_Medium_Forest_Loss'})",3
+0.1,"frozenset({'Rainfall_Category_Low_Rainfall', 'Corruption_Category_High_Corruption', 'Forest_Loss_Category_Medium_Forest_Loss'})",3
+0.1,"frozenset({'Population_Category_Medium_Population', 'Corruption_Category_High_Corruption', 'Forest_Loss_Category_Medium_Forest_Loss'})",3
+0.1,"frozenset({'CO2_Category_Medium_CO2', 'GDP_Category_Medium_GDP', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'CO2_Category_Medium_CO2', 'Corruption_Category_High_Corruption', 'Rainfall_Category_Medium_Rainfall'})",3
+0.1,"frozenset({'Rainfall_Category_Low_Rainfall', 'CO2_Category_Medium_CO2', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'CO2_Category_Medium_CO2', 'Population_Category_Low_Population', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'CO2_Category_Medium_CO2', 'Population_Category_High_Population', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'CO2_Category_Medium_CO2', 'GDP_Category_High_GDP', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'CO2_Category_Medium_CO2', 'Corruption_Category_High_Corruption', 'Forest_Loss_Category_Medium_Forest_Loss'})",3
+0.1,"frozenset({'CO2_Category_Medium_CO2', 'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'Year_Category_Recent_Year', 'CO2_Category_Low_CO2', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'CO2_Category_Low_CO2', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'GDP_Category_Low_GDP', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",2
+0.1,"frozenset({'GDP_Category_Low_GDP', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",2
+0.1,"frozenset({'Forest_Loss_Category_Medium_Forest_Loss', 'Year_Category_Old_Year'})",2
+0.1,"frozenset({'Population_Category_Medium_Population', 'Forest_Loss_Category_Medium_Forest_Loss'})",2
+0.1,"frozenset({'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year'})",3
+0.1,"frozenset({'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption', 'Rainfall_Category_Medium_Rainfall'})",3
+0.1,"frozenset({'GDP_Category_Low_GDP', 'Policy_Category_Moderate_Policy'})",2
+0.1,"frozenset({'GDP_Category_High_GDP', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",2
+0.1,"frozenset({'CO2_Category_Low_CO2', 'Rainfall_Category_Medium_Rainfall', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Rainfall_Category_High_Rainfall', 'CO2_Category_Low_CO2', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'CO2_Category_Low_CO2', 'Protected_Areas_Category_Low_Protected_Area', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'CO2_Category_Low_CO2', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",3
+0.1,"frozenset({'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption', 'Protected_Areas_Category_Low_Protected_Area'})",3
+0.1,"frozenset({'CO2_Category_Low_CO2', 'Forest_Loss_Category_Low_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'CO2_Category_Low_CO2', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",2
+0.1,"frozenset({'Rainfall_Category_Low_Rainfall', 'CO2_Category_Low_CO2'})",2
+0.1,"frozenset({'CO2_Category_Low_CO2', 'Protected_Areas_Category_Low_Protected_Area'})",2
+0.1,"frozenset({'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Aid_Category_Medium_Aid', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Rainfall_Category_High_Rainfall', 'Aid_Category_Medium_Aid', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Forest_Loss_Category_Medium_Forest_Loss'})",2
+0.1,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Forest_Loss_Category_Low_Forest_Loss'})",2
+0.1,"frozenset({'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption', 'Year_Category_Old_Year'})",3
+0.1,"frozenset({'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",3
+0.1,"frozenset({'Rainfall_Category_High_Rainfall', 'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'CO2_Category_High_CO2', 'Population_Category_Medium_Population', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'CO2_Category_High_CO2', 'GDP_Category_Low_GDP', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'CO2_Category_High_CO2', 'Forest_Loss_Category_Medium_Forest_Loss'})",2
+0.1,"frozenset({'Country_Russia', 'CO2_Category_High_CO2'})",2
+0.1,"frozenset({'Policy_Category_Moderate_Policy', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",2
+0.1,"frozenset({'Rainfall_Category_Low_Rainfall', 'Policy_Category_Moderate_Policy'})",2
+0.1,"frozenset({'GDP_Category_High_GDP', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",2
+0.1,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'GDP_Category_High_GDP'})",2
+0.1,"frozenset({'Population_Category_High_Population', 'GDP_Category_High_GDP'})",2
+0.1,"frozenset({'Aid_Category_Medium_Aid', 'Population_Category_Low_Population', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'Aid_Category_Medium_Aid', 'Corruption_Category_High_Corruption', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",3
+0.1,"frozenset({'Policy_Category_Moderate_Policy', 'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year'})",3
+0.1,"frozenset({'Rainfall_Category_High_Rainfall', 'Policy_Category_Moderate_Policy', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Policy_Category_Moderate_Policy', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",3
+0.1,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Rainfall_Category_Medium_Rainfall'})",3
+0.1,"frozenset({'Population_Category_Medium_Population', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'Population_Category_High_Population', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'CO2_Category_Medium_CO2', 'Aid_Category_Low_Aid'})",2
+0.1,"frozenset({'Aid_Category_Low_Aid', 'CO2_Category_High_CO2'})",2
+0.1,"frozenset({'Tree_Cover_Loss_Category_High_Tree_Cover_Loss', 'Aid_Category_High_Aid'})",2
+0.1,"frozenset({'Rainfall_Category_Medium_Rainfall', 'Aid_Category_High_Aid'})",2
+0.1,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'CO2_Category_High_CO2'})",3
+0.1,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Population_Category_Medium_Population', 'Aid_Category_Medium_Aid'})",3
+0.1,"frozenset({'Policy_Category_Weak_Policy', 'Aid_Category_Medium_Aid', 'Year_Category_Old_Year'})",3
+0.1,"frozenset({'CO2_Category_Medium_CO2', 'Population_Category_Low_Population'})",2
+0.1,"frozenset({'CO2_Category_Medium_CO2', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",2
+0.1,"frozenset({'CO2_Category_Medium_CO2', 'Illegal_Lumbering_Category_High_Illegal_Lumbering'})",2
+0.1,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Illegal_Lumbering_Category_High_Illegal_Lumbering'})",2
+0.1,"frozenset({'Policy_Category_Moderate_Policy', 'Corruption_Category_High_Corruption', 'Year_Category_Old_Year'})",3
+0.1,"frozenset({'Aid_Category_Low_Aid', 'Population_Category_High_Population', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Population_Category_Low_Population', 'Year_Category_Middle_Year'})",2
+0.1,"frozenset({'Aid_Category_Low_Aid', 'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Aid_Category_Low_Aid', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'Aid_Category_Medium_Aid', 'GDP_Category_High_GDP', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Population_Category_Low_Population', 'Rainfall_Category_Medium_Rainfall'})",2
+0.1,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Population_Category_Low_Population'})",2
+0.1,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'CO2_Category_High_CO2'})",2
+0.1,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'CO2_Category_High_CO2'})",2
+0.1,"frozenset({'Aid_Category_Medium_Aid', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",3
+0.1,"frozenset({'Aid_Category_Medium_Aid', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",3
+0.1,"frozenset({'Population_Category_High_Population', 'Corruption_Category_High_Corruption', 'Rainfall_Category_Medium_Rainfall'})",3
+0.1,"frozenset({'Aid_Category_Low_Aid', 'CO2_Category_Low_CO2', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Aid_Category_Low_Aid', 'Corruption_Category_High_Corruption', 'CO2_Category_High_CO2'})",3
+0.1,"frozenset({'Rainfall_Category_Low_Rainfall', 'Protected_Areas_Category_Medium_Protected_Area', 'Aid_Category_High_Aid'})",3
+0.1,"frozenset({'Population_Category_High_Population', 'Aid_Category_High_Aid', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'GDP_Category_Medium_GDP', 'Aid_Category_High_Aid', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Country_Indonesia', 'Corruption_Category_High_Corruption', 'Aid_Category_High_Aid'})",3
+0.1,"frozenset({'CO2_Category_High_CO2', 'Aid_Category_High_Aid', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Aid_Category_Low_Aid', 'Corruption_Category_High_Corruption', 'Forest_Loss_Category_Medium_Forest_Loss'})",3
+0.1,"frozenset({'Rainfall_Category_High_Rainfall', 'Protected_Areas_Category_Medium_Protected_Area'})",2
+0.1,"frozenset({'Rainfall_Category_High_Rainfall', 'Protected_Areas_Category_Low_Protected_Area'})",2
+0.1,"frozenset({'Population_Category_Medium_Population', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",2
+0.1,"frozenset({'Population_Category_Medium_Population', 'Rainfall_Category_Medium_Rainfall'})",2
+0.1,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",2
+0.1,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Policy_Category_Moderate_Policy'})",2
+0.1,"frozenset({'Forest_Loss_Category_High_Forest_Loss', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",2
+0.1,"frozenset({'Rainfall_Category_High_Rainfall', 'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'Corruption_Category_High_Corruption', 'Protected_Areas_Category_Low_Protected_Area', 'Year_Category_Middle_Year'})",3
+0.1,"frozenset({'Corruption_Category_High_Corruption', 'Protected_Areas_Category_Low_Protected_Area', 'Rainfall_Category_Medium_Rainfall'})",3
+0.1,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",3
+0.1,"frozenset({'Population_Category_Medium_Population', 'Corruption_Category_High_Corruption', 'Rainfall_Category_Medium_Rainfall'})",3
+0.1,"frozenset({'Population_Category_Medium_Population', 'Corruption_Category_High_Corruption', 'Protected_Areas_Category_Low_Protected_Area'})",3
+0.1,"frozenset({'Population_Category_Low_Population', 'Corruption_Category_High_Corruption', 'Year_Category_Old_Year'})",3
+0.1,"frozenset({'Population_Category_Low_Population', 'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year'})",3
+0.1,"frozenset({'Population_Category_Low_Population', 'Corruption_Category_High_Corruption', 'Rainfall_Category_Medium_Rainfall'})",3
+0.1,"frozenset({'Population_Category_Low_Population', 'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'CO2_Category_Medium_CO2', 'Forest_Loss_Category_High_Forest_Loss'})",2
+0.1,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Forest_Loss_Category_High_Forest_Loss'})",2
+0.1,"frozenset({'Country_Russia', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",2
+0.1,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Country_Russia'})",2
+0.1,"frozenset({'Country_Russia', 'GDP_Category_Medium_GDP'})",2
+0.1,"frozenset({'Population_Category_High_Population', 'Year_Category_Recent_Year', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'Country_Brazil', 'Year_Category_Middle_Year'})",2
+0.1,"frozenset({'Rainfall_Category_Low_Rainfall', 'Country_Brazil'})",2
+0.1,"frozenset({'Policy_Category_Moderate_Policy', 'Country_Brazil'})",2
+0.1,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Aid_Category_Low_Aid'})",2
+0.1,"frozenset({'Year_Category_Recent_Year', 'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year'})",3
+0.1,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",3
+0.1,"frozenset({'Rainfall_Category_Medium_Rainfall', 'Year_Category_Old_Year'})",2
+0.1,"frozenset({'Year_Category_Middle_Year', 'Rainfall_Category_Medium_Rainfall'})",2
+0.1,"frozenset({'Rainfall_Category_Low_Rainfall', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",2
+0.1,"frozenset({'Rainfall_Category_High_Rainfall', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",2
+0.1,"frozenset({'Rainfall_Category_High_Rainfall', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",2
+0.1,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Year_Category_Middle_Year'})",2
+0.1,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",2
+0.1,"frozenset({'Protected_Areas_Category_Medium_Protected_Area', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",2
+0.1,"frozenset({'Rainfall_Category_Low_Rainfall', 'Agriculture_Land_Category_Medium_Agriculture_Land', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'Year_Category_Recent_Year', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",3
+0.1,"frozenset({'Year_Category_Recent_Year', 'Corruption_Category_High_Corruption', 'Rainfall_Category_Medium_Rainfall'})",3
+0.1,"frozenset({'Year_Category_Old_Year', 'Corruption_Category_High_Corruption', 'Rainfall_Category_Medium_Rainfall'})",3
+0.1,"frozenset({'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year', 'Rainfall_Category_Medium_Rainfall'})",3
+0.1,"frozenset({'Agriculture_Land_Category_Medium_Agriculture_Land', 'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'CO2_Category_Medium_CO2', 'Agriculture_Land_Category_Medium_Agriculture_Land', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'GDP_Category_Low_GDP', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Forest_Loss_Category_Low_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'CO2_Category_High_CO2', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Aid_Category_Low_Aid', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Aid_Category_Low_Aid', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Rainfall_Category_High_Rainfall', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Protected_Areas_Category_Medium_Protected_Area', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Rainfall_Category_High_Rainfall', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",3
+0.1,"frozenset({'Country_Russia', 'Forest_Loss_Category_High_Forest_Loss'})",2
+0.1,"frozenset({'Country_Indonesia', 'Protected_Areas_Category_Low_Protected_Area'})",2
+0.1,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Aid_Category_Low_Aid'})",2
+0.1,"frozenset({'Policy_Category_Weak_Policy', 'Protected_Areas_Category_Medium_Protected_Area', 'Illegal_Lumbering_Category_Medium_Illegal_Lumbering'})",3
+0.1,"frozenset({'Rainfall_Category_High_Rainfall', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Population_Category_Low_Population', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'GDP_Category_Medium_GDP', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Rainfall_Category_Low_Rainfall', 'GDP_Category_Medium_GDP', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Rainfall_Category_High_Rainfall', 'GDP_Category_Low_GDP', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'GDP_Category_Low_GDP', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Year_Category_Recent_Year', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Forest_Loss_Category_Medium_Forest_Loss'})",3
+0.1,"frozenset({'Rainfall_Category_Medium_Rainfall', 'Forest_Loss_Category_Medium_Forest_Loss', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Rainfall_Category_Low_Rainfall', 'Forest_Loss_Category_Medium_Forest_Loss', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Forest_Loss_Category_Medium_Forest_Loss', 'Protected_Areas_Category_Low_Protected_Area', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Year_Category_Recent_Year', 'Forest_Loss_Category_High_Forest_Loss', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Forest_Loss_Category_High_Forest_Loss', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Population_Category_High_Population', 'Country_Indonesia', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss', 'Protected_Areas_Category_Medium_Protected_Area', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Year_Category_Recent_Year', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Rainfall_Category_Medium_Rainfall', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Rainfall_Category_High_Rainfall', 'Year_Category_Recent_Year', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss', 'Protected_Areas_Category_Medium_Protected_Area', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Rainfall_Category_Medium_Rainfall', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Rainfall_Category_High_Rainfall', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Population_Category_High_Population', 'Protected_Areas_Category_Medium_Protected_Area', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Forest_Loss_Category_Medium_Forest_Loss', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Low_Tree_Cover_Loss'})",3
+0.1,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Protected_Areas_Category_Low_Protected_Area'})",3
+0.1,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Population_Category_High_Population', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Country_Brazil'})",3
+0.1,"frozenset({'Rainfall_Category_High_Rainfall', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Aid_Category_High_Aid'})",2
+0.1,"frozenset({'CO2_Category_Medium_CO2', 'Tree_Cover_Loss_Category_High_Tree_Cover_Loss'})",2
+0.1,"frozenset({'CO2_Category_Medium_CO2', 'Rainfall_Category_High_Rainfall'})",2
+0.1,"frozenset({'CO2_Category_Medium_CO2', 'Protected_Areas_Category_Low_Protected_Area'})",2
+0.1,"frozenset({'CO2_Category_Medium_CO2', 'Population_Category_Medium_Population'})",2
+0.1,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'GDP_Category_Low_GDP', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Corruption_Category_High_Corruption', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss'})",3
+0.1,"frozenset({'Rainfall_Category_Low_Rainfall', 'Agriculture_Land_Category_High_Agriculture_Land', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'Aid_Category_Low_Aid', 'GDP_Category_Low_GDP'})",2
+0.1,"frozenset({'Aid_Category_Low_Aid', 'Forest_Loss_Category_Medium_Forest_Loss'})",2
+0.1,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'CO2_Category_Low_CO2', 'Policy_Category_Weak_Policy'})",3
+0.1,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Year_Category_Old_Year'})",2
+0.1,"frozenset({'Rainfall_Category_High_Rainfall', 'Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Year_Category_Recent_Year', 'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Aid_Category_Medium_Aid', 'Year_Category_Old_Year', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'GDP_Category_High_GDP', 'Aid_Category_Medium_Aid', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Aid_Category_Low_Aid', 'Population_Category_High_Population', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Aid_Category_Low_Aid', 'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Aid_Category_Low_Aid', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Year_Category_Recent_Year', 'Aid_Category_High_Aid', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Population_Category_Low_Population', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Protected_Areas_Category_High_Protected_Area', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Rainfall_Category_High_Rainfall', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Agriculture_Land_Category_Low_Agriculture_Land', 'CO2_Category_Low_CO2', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Year_Category_Recent_Year', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Policy_Category_Weak_Policy', 'Corruption_Category_High_Corruption', 'Year_Category_Middle_Year'})",4
+0.1,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Protected_Areas_Category_Low_Protected_Area', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Population_Category_Medium_Population', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Rainfall_Category_Low_Rainfall', 'Agriculture_Land_Category_Medium_Agriculture_Land'})",2
+0.1,"frozenset({'Forest_Loss_Category_Low_Forest_Loss', 'Corruption_Category_High_Corruption', 'Protected_Areas_Category_Low_Protected_Area'})",3
+0.1,"frozenset({'Population_Category_High_Population', 'Forest_Loss_Category_Low_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'Forest_Loss_Category_Low_Forest_Loss', 'Corruption_Category_High_Corruption', 'Policy_Category_Moderate_Policy'})",3
+0.1,"frozenset({'Illegal_Lumbering_Category_Low_Illegal_Lumbering', 'Rainfall_Category_Medium_Rainfall'})",2
+0.1,"frozenset({'Rainfall_Category_Low_Rainfall', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering'})",2
+0.1,"frozenset({'Population_Category_Medium_Population', 'Illegal_Lumbering_Category_Low_Illegal_Lumbering'})",2
+0.1,"frozenset({'CO2_Category_Low_CO2', 'Forest_Loss_Category_Low_Forest_Loss'})",2
+0.1,"frozenset({'Rainfall_Category_Low_Rainfall', 'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'Population_Category_High_Population', 'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'Illegal_Lumbering_Category_High_Illegal_Lumbering', 'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'GDP_Category_Medium_GDP', 'Forest_Loss_Category_High_Forest_Loss', 'Corruption_Category_High_Corruption'})",3
+0.1,"frozenset({'CO2_Category_High_CO2', 'Aid_Category_High_Aid', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Agriculture_Land_Category_High_Agriculture_Land', 'Population_Category_High_Population'})",2
+0.1,"frozenset({'Forest_Loss_Category_Medium_Forest_Loss', 'Rainfall_Category_Medium_Rainfall', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4
+0.1,"frozenset({'Forest_Loss_Category_Low_Forest_Loss', 'GDP_Category_Medium_GDP', 'Corruption_Category_High_Corruption', 'Policy_Category_Weak_Policy'})",4

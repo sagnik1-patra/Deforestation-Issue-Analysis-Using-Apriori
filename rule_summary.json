@@ -1,0 +1,235 @@
+{
+    "dataset_shape": [
+        100,
+        14
+    ],
+    "total_frequent_itemsets": 1092,
+    "total_association_rules": 1000,
+    "high_deforestation_rules": 9,
+    "minimum_support": 0.1,
+    "minimum_confidence": 0.5,
+    "top_10_rules": [
+        {
+            "antecedents": "Year_Category_Recent_Year, Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss",
+            "consequents": "Forest_Loss_Category_Medium_Forest_Loss",
+            "antecedent support": 0.13,
+            "consequent support": 0.33,
+            "support": 0.1,
+            "confidence": 0.7692307692307693,
+            "lift": 2.331002331002331,
+            "representativity": 1.0,
+            "leverage": 0.057100000000000005,
+            "conviction": 2.9033333333333338,
+            "zhangs_metric": 0.6563218390804597,
+            "jaccard": 0.2777777777777778,
+            "certainty": 0.6555683122847303,
+            "kulczynski": 0.5361305361305362
+        },
+        {
+            "antecedents": "Protected_Areas_Category_High_Protected_Area, Population_Category_Medium_Population",
+            "consequents": "Aid_Category_Medium_Aid",
+            "antecedent support": 0.13,
+            "consequent support": 0.34,
+            "support": 0.1,
+            "confidence": 0.7692307692307693,
+            "lift": 2.262443438914027,
+            "representativity": 1.0,
+            "leverage": 0.0558,
+            "conviction": 2.8600000000000003,
+            "zhangs_metric": 0.6413793103448275,
+            "jaccard": 0.2702702702702703,
+            "certainty": 0.6503496503496504,
+            "kulczynski": 0.5316742081447964
+        },
+        {
+            "antecedents": "Forest_Loss_Category_Medium_Forest_Loss, Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss",
+            "consequents": "Year_Category_Recent_Year",
+            "antecedent support": 0.15,
+            "consequent support": 0.33,
+            "support": 0.1,
+            "confidence": 0.6666666666666667,
+            "lift": 2.0202020202020203,
+            "representativity": 1.0,
+            "leverage": 0.0505,
+            "conviction": 2.0100000000000002,
+            "zhangs_metric": 0.5941176470588235,
+            "jaccard": 0.2631578947368421,
+            "certainty": 0.5024875621890549,
+            "kulczynski": 0.48484848484848486
+        },
+        {
+            "antecedents": "Policy_Category_Weak_Policy, Rainfall_Category_Medium_Rainfall",
+            "consequents": "Agriculture_Land_Category_High_Agriculture_Land, Corruption_Category_High_Corruption",
+            "antecedent support": 0.23,
+            "consequent support": 0.31,
+            "support": 0.14,
+            "confidence": 0.6086956521739131,
+            "lift": 1.9635343618513326,
+            "representativity": 1.0,
+            "leverage": 0.06870000000000001,
+            "conviction": 1.7633333333333334,
+            "zhangs_metric": 0.6372912801484231,
+            "jaccard": 0.35000000000000003,
+            "certainty": 0.4328922495274103,
+            "kulczynski": 0.5301542776998598
+        },
+        {
+            "antecedents": "Protected_Areas_Category_Medium_Protected_Area, Aid_Category_High_Aid",
+            "consequents": "Rainfall_Category_Low_Rainfall",
+            "antecedent support": 0.15,
+            "consequent support": 0.34,
+            "support": 0.1,
+            "confidence": 0.6666666666666667,
+            "lift": 1.9607843137254903,
+            "representativity": 1.0,
+            "leverage": 0.049,
+            "conviction": 1.9800000000000002,
+            "zhangs_metric": 0.5764705882352941,
+            "jaccard": 0.25641025641025644,
+            "certainty": 0.4949494949494951,
+            "kulczynski": 0.48039215686274517
+        },
+        {
+            "antecedents": "Rainfall_Category_Low_Rainfall, Protected_Areas_Category_Medium_Protected_Area",
+            "consequents": "Aid_Category_High_Aid",
+            "antecedent support": 0.16,
+            "consequent support": 0.33,
+            "support": 0.1,
+            "confidence": 0.625,
+            "lift": 1.8939393939393938,
+            "representativity": 1.0,
+            "leverage": 0.0472,
+            "conviction": 1.7866666666666664,
+            "zhangs_metric": 0.5619047619047619,
+            "jaccard": 0.25641025641025644,
+            "certainty": 0.4402985074626866,
+            "kulczynski": 0.4640151515151515
+        },
+        {
+            "antecedents": "Year_Category_Recent_Year, Forest_Loss_Category_Medium_Forest_Loss",
+            "consequents": "Tree_Cover_Loss_Category_Medium_Tree_Cover_Loss",
+            "antecedent support": 0.16,
+            "consequent support": 0.33,
+            "support": 0.1,
+            "confidence": 0.625,
+            "lift": 1.8939393939393938,
+            "representativity": 1.0,
+            "leverage": 0.0472,
+            "conviction": 1.7866666666666664,
+            "zhangs_metric": 0.5619047619047619,
+            "jaccard": 0.25641025641025644,
+            "certainty": 0.4402985074626866,
+            "kulczynski": 0.4640151515151515
+        },
+        {
+            "antecedents": "Population_Category_Medium_Population, Aid_Category_Medium_Aid",
+            "consequents": "Protected_Areas_Category_High_Protected_Area",
+            "antecedent support": 0.16,
+            "consequent support": 0.34,
+            "support": 0.1,
+            "confidence": 0.625,
+            "lift": 1.838235294117647,
+            "representativity": 1.0,
+            "leverage": 0.0456,
+            "conviction": 1.7599999999999998,
+            "zhangs_metric": 0.5428571428571428,
+            "jaccard": 0.25,
+            "certainty": 0.4318181818181818,
+            "kulczynski": 0.4595588235294118
+        },
+        {
+            "antecedents": "GDP_Category_Low_GDP, Policy_Category_Weak_Policy",
+            "consequents": "Year_Category_Recent_Year, Corruption_Category_High_Corruption",
+            "antecedent support": 0.23,
+            "consequent support": 0.29,
+            "support": 0.12,
+            "confidence": 0.5217391304347826,
+            "lift": 1.7991004497751124,
+            "representativity": 1.0,
+            "leverage": 0.0533,
+            "conviction": 1.4845454545454544,
+            "zhangs_metric": 0.5768398268398268,
+            "jaccard": 0.3,
+            "certainty": 0.3263931414574403,
+            "kulczynski": 0.46776611694152925
+        },
+        {
+            "antecedents": "Policy_Category_Weak_Policy, Corruption_Category_High_Corruption, Rainfall_Category_Medium_Rainfall",
+            "consequents": "Agriculture_Land_Category_High_Agriculture_Land",
+            "antecedent support": 0.23,
+            "consequent support": 0.34,
+            "support": 0.14,
+            "confidence": 0.6086956521739131,
+            "lift": 1.7902813299232736,
+            "representativity": 1.0,
+            "leverage": 0.06180000000000001,
+            "conviction": 1.6866666666666665,
+            "zhangs_metric": 0.5732838589981447,
+            "jaccard": 0.3255813953488372,
+            "certainty": 0.40711462450592895,
+            "kulczynski": 0.5102301790281331
+        }
+    ],
+    "feature_impact_summary": {
+        "CO2": {
+            "rule_count": 0,
+            "avg_support": 0,
+            "avg_confidence": 0,
+            "avg_lift": 0
+        },
+        "Rainfall": {
+            "rule_count": 1,
+            "avg_support": 0.12,
+            "avg_confidence": 0.5,
+            "avg_lift": 1.4705882352941175
+        },
+        "Population": {
+            "rule_count": 0,
+            "avg_support": 0,
+            "avg_confidence": 0,
+            "avg_lift": 0
+        },
+        "GDP": {
+            "rule_count": 0,
+            "avg_support": 0,
+            "avg_confidence": 0,
+            "avg_lift": 0
+        },
+        "Agriculture": {
+            "rule_count": 0,
+            "avg_support": 0,
+            "avg_confidence": 0,
+            "avg_lift": 0
+        },
+        "Policy": {
+            "rule_count": 7,
+            "avg_support": 0.10857142857142857,
+            "avg_confidence": 0.5276426360017691,
+            "avg_lift": 1.5788416759892812
+        },
+        "Corruption": {
+            "rule_count": 3,
+            "avg_support": 0.10666666666666667,
+            "avg_confidence": 0.5373482726423903,
+            "avg_lift": 1.5804360960070303
+        },
+        "Aid": {
+            "rule_count": 0,
+            "avg_support": 0,
+            "avg_confidence": 0,
+            "avg_lift": 0
+        },
+        "Illegal_Lumbering": {
+            "rule_count": 3,
+            "avg_support": 0.11,
+            "avg_confidence": 0.5,
+            "avg_lift": 1.5012254901960784
+        },
+        "Protected_Area": {
+            "rule_count": 0,
+            "avg_support": 0,
+            "avg_confidence": 0,
+            "avg_lift": 0
+        }
+    }
+}
