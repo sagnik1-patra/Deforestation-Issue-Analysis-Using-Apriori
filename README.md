@@ -33,7 +33,7 @@ The project automatically generates reports, graphs, trained models, prediction 
 
 ---
 
-![SVM Decision Surface](./svm_svm_decision_surface_pca.png)
+![SVM Decision Surface](co2_vs_forest_loss.png)
 
 ---
 
